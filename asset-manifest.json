@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projecto-Backend/static/css/main.b2850c80.css",
+    "main.js": "/Projecto-Backend/static/js/main.0649d6d7.js",
+    "static/media/Footer.mp4": "/Projecto-Backend/static/media/Footer.a09a977c266f7b3796e1.mp4",
+    "static/media/Banner.mp4": "/Projecto-Backend/static/media/Banner.ae180873591468c4a814.mp4",
+    "index.html": "/Projecto-Backend/index.html",
+    "main.b2850c80.css.map": "/Projecto-Backend/static/css/main.b2850c80.css.map",
+    "main.0649d6d7.js.map": "/Projecto-Backend/static/js/main.0649d6d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2850c80.css",
+    "static/js/main.0649d6d7.js"
+  ]
+}
